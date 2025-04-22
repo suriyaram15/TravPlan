@@ -2,6 +2,12 @@
 
 TravPlan is a smart, AI-driven travel itinerary planner that generates personalized travel plans based on your input preferences like destination, budget, duration, and more. Powered by OpenAI, Google Places, and OpenWeatherMap, this tool helps you explore, plan, and experience your journeys like never before.
 
+## 🌐 Live Demo
+
+[TravPlan](https://travplan-ai-powered-itinerary-planner.vercel.app/)
+
+---
+
 ## 📸 Screenshots
 
 <p float="left">
